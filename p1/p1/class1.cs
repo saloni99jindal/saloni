@@ -1,8 +1,8 @@
- class class1{
+ partial class Program {
        
        void PrintHello()
        {
-            Console.WriteLine("saloni");  
+            Console.WriteLine("new class");  
        }
  
  }
