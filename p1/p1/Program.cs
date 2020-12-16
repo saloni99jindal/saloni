@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace p1
 {
-    class Program
+    partial class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("saloni");
             Console.WriteLine("upated");
+            new Program().PrintHello();
             Console.ReadKey();
         }
     }
