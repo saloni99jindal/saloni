@@ -10,6 +10,9 @@ namespace p1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("saloni");
+            Console.WriteLine("upated");
+            Console.ReadKey();
         }
     }
 }
